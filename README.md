@@ -7,4 +7,11 @@ Um usuário do chat pode abrir quantos clientes (abas) ele desejar, e o cliente 
 
 Para armazenar os dados foi utilizado MongoDB e mLab.
 
+Para rodar o aplicativo, crie seu pacote "package.json"digitando: 
+"npm init --yes"
+
+Em seguida, instale "Express", usando o comando
+"npm install -s express" 
+
+Por fim, baixe os arquivos da pasta "programaChat" e adicione eles à pasta.
 
